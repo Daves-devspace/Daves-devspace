@@ -30,6 +30,7 @@ I'm passionate about solving local problems with scalable technology — from CB
 
 ### 🛠️ Tools & CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
@@ -52,17 +53,20 @@ A title deed processing and client tracking system with role-based access and re
 ### 🧠 Jiseme Africa (Mental Health Platform)
 A WordPress-powered platform for mental health awareness, therapy bookings, and community outreach in Kenya.
 
-### 🛒 Evercomps Electronics (eCommerce)
-A conversion-optimized WooCommerce store for electronics with fast loading and mobile-first UX.
+### 👔 StitchNGalore – Men’s Fashion eCommerce
+A modern eCommerce platform for men’s custom wear, featuring:
+- WooCommerce + Elementor design
+- Fast loading, mobile-first UI
+- Custom checkout and WhatsApp integration
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)
-- 📧 Email: [david@example.com](mailto:david@example.com)
-- 📸 Instagram: [@jisemeafrica](https://instagram.com/jisemeafrica)
-- 💼 LinkedIn: [David Maina](https://linkedin.com/in/yourprofile)
+- 🌍 Website: [liorixdigital.com](https://liorixdigital.com)
+- 📧 Email: [info@liorixdigital.com](mailto:info@liorixdigital.com)
+- 📸 Instagram: [@liorixdigital](https://instagram.com/jisemeafrica)
+- 💼 LinkedIn: [David Maina](www.linkedin.com/in/david-maina-40a353329)
 
 ---
 
