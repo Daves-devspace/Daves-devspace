@@ -1,8 +1,8 @@
 # 👋 Hello, I'm David Maina
 
-💡 Techpreneur | 🖥️ Systems Architect | 🇰🇪 Building Digital Solutions for African Needs  
+💡 Techpreneur | 🖥️ Systems Architect | 🤖 AI Enthusiast | 🇰🇪 African Innovator
 
-I'm passionate about solving local problems with scalable technology — from CBC-aligned school management systems to land surveyor dashboards and mental health platforms. I transform ideas into real, impactful software.
+I’m passionate about leveraging technology and AI to design scalable solutions that address real-world challenges. My focus is on building impactful, user-centered systems that simplify lives, empower communities, and drive digital transformation across Africa.
 
 ---
 
