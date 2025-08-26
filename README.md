@@ -66,7 +66,7 @@ A modern eCommerce platform for men’s custom wear, featuring:
 
 - 🌍 Website: [liorixdigital.com](https://liorixdigital.com)
 - 📧 Email: [info@liorixdigital.com](mailto:info@liorixdigital.com)
-- 📸 Instagram: [@liorixdigital](https://instagram.com/jisemeafrica)
+- 📸 Instagram: [@liorixdigital](https://instagram.com/liorixdigital)
 - 💼 LinkedIn: [David Maina](www.linkedin.com/in/david-maina-40a353329)
 
 ---
